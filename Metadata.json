@@ -1,0 +1,20 @@
+{
+    "Author": "Safeer Mohammed",
+    "ContentSize": 5443,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/onboard-oms-extension-for-list-of-linux-and-windows-azure-classic-vms/master/Onboard-ClassicVMsForOMSUpdateManagement.ps1",
+    "DownloadCount": 552,
+    "Id": "Onboard-OMS-extension-for-b37c1931",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 332,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Installs OMS extension for Linux and Windows Azure classic VMs. The Runbook takes comma seperated list of SubscriptionIds=SubscriptionName combination andinstalls OMS Agent on each VMs in the subscription.The runbook needs classic run as connection string to access VMs in oth",
+    "Title": "Onboard OMS extension for list of Linux and Windows Azure classic VMs",
+    "UpdatedDate": "2017-6-23T00:00:00",
+    "Url": "https://github.com/azureautomation/onboard-oms-extension-for-list-of-linux-and-windows-azure-classic-vms",
+    "UserTags": "Azure Automation, OMS Update Management"
+}
